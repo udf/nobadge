@@ -2,8 +2,11 @@
 Please vote:
 
 [Telegram Desktop](https://translations.telegram.org/en/tdesktop/groups_and_channels/lng_admin_badge)
+
 [MacOS](https://translations.telegram.org/en/macos/groups_and_channels/PeerInfo.AdminLabel)
+
 [Android](https://translations.telegram.org/en/android/groups_and_channels/ChatAdmin)
+
 [iOS](https://translations.telegram.org/en/ios/groups_and_channels/GroupInfo.LabelAdmin)
 
 ![nobadge](https://user-images.githubusercontent.com/13610073/48900564-604e9f00-ee5b-11e8-9a22-4279d71848e1.png) [/r](https://www.youtube.com/watch?v=ahCgADqInX8)
