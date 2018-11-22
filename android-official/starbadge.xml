@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LanguageName">English-star-badge</string>
+    <string name="LanguageNameInEnglish">English-star-badge</string>
+    <string name="LanguageCode">en1</string>
+    <string name="ChatAdmin">★</string>
+</resources>
