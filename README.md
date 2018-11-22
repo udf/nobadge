@@ -25,13 +25,23 @@ Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 2. Tap on the ⠇ icon beside the message and select "Apply Localization file".
 
 
+### Android (TelegramX)
+1. From the chat list open the left panel
+1. Select "⚙️ Settings"
+1. Select "🌐 Language"
+1. Hold "English" (or your language)
+1. Select "✏️ Create Localization"
+1. Enter any name (e.g. "star")
+1. Hold your new installed Unknown.
+1. Select "✏️ Edit Localization"
+1. Search with 🔎 for "admin" and find `message_adminSign`
+1. Edit both for `★`.
+1. Select done
+
+
 ### iOS (official client)
 [★ badge](https://raw.githubusercontent.com/udf/nobadge/master/iOS/starbadge.strings)
 | [no badge](https://raw.githubusercontent.com/udf/nobadge/master/iOS/nobadge.strings)
 
 1. Send the `.strings` file to a chat and download it.
 1. Tap on the file and select "Apply Localization".
-
-
-### Android (TelegramX)
-kate please add details
