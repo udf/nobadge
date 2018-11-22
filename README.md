@@ -1,5 +1,10 @@
 # [@nobadge](https://t.me/nobadge)
-Please [vote](https://translations.telegram.org/en/android/groups_and_channels/ChatAdmin)!
+Please vote:
+
+[Telegram Desktop](https://translations.telegram.org/en/tdesktop/groups_and_channels/lng_admin_badge)
+[MacOS](https://translations.telegram.org/en/macos/groups_and_channels/PeerInfo.AdminLabel)
+[Android](https://translations.telegram.org/en/android/groups_and_channels/ChatAdmin)
+[iOS](https://translations.telegram.org/en/ios/groups_and_channels/GroupInfo.LabelAdmin)
 
 
 ## Installation
@@ -26,7 +31,7 @@ Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 
 
 ### Android (TelegramX)
-
+Currently, it isn't possible to provide files because the client rejects any locale code when sharing.
 
 1. From the chat list open the left panel
 1. Select "⚙️ Settings"
