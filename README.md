@@ -10,10 +10,10 @@ Please [vote](https://translations.telegram.org/en/android/groups_and_channels/C
 
 1. Download the `.strings` file to your computer.
 1. Go to Telegram settings and type "loadlang".
-1. Select the language file from there and relaunch Telegram when prompted.
+1. Select the language file from where you saved it and relaunch Telegram when prompted.
 
 
-### Web (webogram)
+### Web ([webogram](https://web.telegram.org))
 Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 
 
@@ -26,6 +26,8 @@ Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 
 
 ### Android (TelegramX)
+
+
 1. From the chat list open the left panel
 1. Select "⚙️ Settings"
 1. Select "🌐 Language"
