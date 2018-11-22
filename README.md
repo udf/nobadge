@@ -6,7 +6,7 @@ Please [vote](https://translations.telegram.org/en/android/groups_and_channels/C
 
 ### Desktop (tdesktop)
 [★ badge](https://raw.githubusercontent.com/udf/nobadge/master/tdesktop/starbadge.strings)
-[no badge](https://raw.githubusercontent.com/udf/nobadge/master/tdesktop/nobadge.strings)
+| [no badge](https://raw.githubusercontent.com/udf/nobadge/master/tdesktop/nobadge.strings)
 
 1. Download the `.strings` file to your computer.
 1. Go to Telegram settings and type "loadlang".
@@ -19,7 +19,7 @@ Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 
 ### Android (official client)
 [★ badge](https://raw.githubusercontent.com/udf/nobadge/master/android-official/starbadge.xml)
-[no badge](https://raw.githubusercontent.com/udf/nobadge/master/android-official/nobadge.xml)
+| [no badge](https://raw.githubusercontent.com/udf/nobadge/master/android-official/nobadge.xml)
 
 1. Send the `.xml` file to a chat and download it.
 2. Tap on the ⠇ icon beside the message and select "Apply Localization file".
@@ -27,7 +27,7 @@ Follow the instructions at: https://github.com/Faith001/Nobadge-Webogram
 
 ### iOS (official client)
 [★ badge](https://raw.githubusercontent.com/udf/nobadge/master/iOS/starbadge.strings)
-[no badge](https://raw.githubusercontent.com/udf/nobadge/master/iOS/nobadge.strings)
+| [no badge](https://raw.githubusercontent.com/udf/nobadge/master/iOS/nobadge.strings)
 
 1. Send the `.strings` file to a chat and download it.
 1. Tap on the file and select "Apply Localization".
