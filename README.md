@@ -1,4 +1,8 @@
 # [@nobadge](https://t.me/nobadge)
+
+# NOTE: This project has been replaced by the official translation platform version here: https://t.me/setlanguage/nobadge-en
+## (you can suggest changes here: https://translations.telegram.org/nobadge-en/)
+
 Please vote:
 
 [Telegram Desktop](https://translations.telegram.org/en/tdesktop/groups_and_channels/lng_admin_badge)
